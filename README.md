@@ -1,4 +1,3 @@
-# CIS350-HW2-Kelley
 # Delaney Kelley
 ## Hobies and Interests
 - Boxing
